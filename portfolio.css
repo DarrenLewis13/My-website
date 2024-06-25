@@ -5,7 +5,8 @@ margin-top: 20px;}
 
 section{background-color: antiquewhite;}
 
-h2{border-bottom: solid;}
+h2{border-bottom: solid; color: darkmagenta;
+}
 
 .nav{display: flex; flex-direction: row;justify-content: left;
 }
