@@ -1,4 +1,28 @@
-h1{color: darkgreen;
-text-align: left;}
+h1 {
+  color: rgb(240, 101, 8);
+  text-align: left;
+  border-bottom: solid black 14px;
+  margin-top: 35px;
+  margin-bottom: 30px;
+}
 
-body{background-color: whitesmoke;}
+body {
+  background-color: rgba(54, 51, 51, 0.249);
+}
+
+.nav{display: flex;
+flex-direction: row;
+justify-content: right;}
+
+.nav-link{margin: 0px 10px 13px 15px;}
+
+h2{color: blue;}
+
+.travel{color:black;
+border-bottom: solid black; margin-bottom: 30px;}
+
+.golf{color: black; 
+border-bottom:solid black; margin-bottom: 30px;}
+
+
+
