@@ -1,0 +1,13 @@
+body{background-color: lightblue}
+
+h1{color:darkgreen;
+margin-top: 20px;}
+
+section{background-color: antiquewhite;}
+
+h2{border-bottom: solid;}
+
+.nav{display: flex; flex-direction: row;justify-content: left;
+}
+
+.nav-link{margin: 0px 10px 13px 15px;}
